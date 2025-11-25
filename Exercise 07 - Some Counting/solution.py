@@ -4,7 +4,7 @@ for i in range(1, 51):
     print(i)
 # displays numbers from 50 to 1 by decrement of -1
 print('loop from 50 to 1 by decrement of -1:')
-for i in range(50, 0, -1):
+for i in range(50, 0, -1) :
     print(i)    
 # displays numbers from 1 to 100 by increment of 1
 print('loop numbers from 30 to 50 by increment of 1:')
